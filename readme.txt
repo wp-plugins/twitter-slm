@@ -1,4 +1,4 @@
-=== Cron View ===
+=== Twitter SLM ===
 Contributors: drmaxim
 Donate link: http://www.maxvim.com/private/tools/slm.php?who=twitterslm
 Tags: twitter,twitter posting,posting to twitter,tweets,retweets,tweet,re-tweets,re-tweet,retweet,microblogging,posts,automation,autopost,auto-post,auto post,socialnetworks,socialnetwork,social networks,social network,bookmarks,bookmark,plugin,links,Post,posts,api,automatic,seo,search engine optimization

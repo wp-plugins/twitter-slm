@@ -37,6 +37,7 @@ First released to public
 == Screenshots ==
 
 1. Main settings.
+2. Submissions log screen.
 
 == Frequently Asked Questions ==
 

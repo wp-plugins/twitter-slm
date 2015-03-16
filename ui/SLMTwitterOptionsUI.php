@@ -16,6 +16,7 @@ if (!class_exists('SLMTwitterOptionsUI')) {
 			$html .= '<table style="width:100%;">';
 			$textsize = ' style="width:300px;"';
 			
+			$html .= '<tr><td style="width:200px;">Instructions:</td><td><a href="https://s3-us-west-2.amazonaws.com/wpslm/docs/PDFs/TwitterFree.pdf" target="_blank"><strong>Help</strong></a></td></tr>';
 			$html .= '<tr><td style="width:200px;"><strong>AUTO SHARING</strong></td><td><hr/></td></tr>';
 			
 			$html .= '<tr><td>Enable Sharing </td>';

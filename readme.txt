@@ -12,7 +12,9 @@ Automatically creates tweets on your Twitter account for new posts and pages.
 
 == Description ==
 
-This plugin automatically creates tweets on your Twitter account for all posts and pages, that are published on your WordPress-based website. 
+This plugin automatically creates tweets on your Twitter account for all posts and pages that are published on your website. 
+
+This creates massive exposure to your Twitter audience, sends traffic to your site and helps to naturally improve your Google rankings.
 
 == Installation ==
 

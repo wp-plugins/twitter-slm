@@ -1,7 +1,7 @@
 === Twitter SLM ===
 Contributors: drmaxim
 Donate link: http://www.maxvim.com/private/tools/slm.php?who=twitterslm
-Tags: twitter,twitter posting,posting to twitter,tweets,retweets,tweet,re-tweets,re-tweet,retweet,microblogging,posts,automation,autopost,auto-post,auto post,socialnetworks,socialnetwork,social networks,social network,bookmarks,bookmark,plugin,links,Post,posts,api,automatic,seo,search engine optimization
+Tags: twitter,twitter posting,posting to twitter,tweets,retweets,tweet,re-tweets,re-tweet,retweet,microblogging,posts,automation,autopost,auto-post,auto post,socialnetworks,socialnetwork,social networks,social network, bookmark, bookmarking, bookmarks,plugin,links,Post,posts,automatic,seo,search engine optimization,social media,socia
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 0.1.0
